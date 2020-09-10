@@ -1,0 +1,11 @@
+spring:
+  application:
+    name: order-service
+
+  profiles:
+    active: local-discovery
+
+server:
+  port: 8085
+
+
