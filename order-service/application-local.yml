@@ -5,7 +5,4 @@ spring:
   profiles:
     active: local-discovery
 
-server:
-  port: 8085
-
 
